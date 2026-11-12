@@ -1,0 +1,1 @@
+"""HelloDoc AI Consultation API."""
